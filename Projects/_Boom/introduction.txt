@@ -1,0 +1,26 @@
+StudioVIX is a startup in the creative officespace market. Their mission is to
+help create spaces that stimulate creativity by products that inspire new solutions
+and help facilitate more free thought through biophilic design. As a designbased startup
+the focus lies on easthetics and timeless design.
+
+The original product linup existed of a whiteboard design and a drawingsheet dispenser. 
+Through a hackaton/brainstorm workshop with a company supplying sustainably sourced floortiles
+the initial plans where made for a partnership to create an officeforest. therefore StudioVIX 
+desided to start the design of a tree-like product.
+
+The product idea, and with that the design brief, is as follows: A multipurpose treelike
+piece of furniture that functions as a canvas for new ideas through the use of feltmaterial 
+to use for attaching puneses. This felt should at the same time also funtion for sounddampening
+in larger officespaces. 
+
+As this was my first furniture design project, I started off by exploring both home- and office furniture
+stores. getting a feel for the types of techniques used, understanding the challanges that this class
+of product comes with and getting inspiration for easthetics and styles to use in the design.
+
+Continueing the process I started exploring how to realize the posed product idea. Mainly through doing scetches of trees
+and treelike structures to see what form or construction would be a good fit for the practical requirements, such as the ability to ship,
+the manufacturability and component density, but also finding something that fits the style of the previous productlineup. 
+
+This eventually lead to the desision to go for a simple 3legged steel frame with a large felt leaf. The next challange was defining
+how the legs come together. There are some familiar designs that use a 3 legged construction, but in order to stay true to the studio's 
+style we chose to find a way to...
