@@ -1,0 +1,35 @@
+[
+    {
+        "id": "_Boom",
+        "location":"floor", 
+        "bottom": "0%", 
+        "left": "10%"
+        
+    },
+    { 
+        "id": "_RealF1",
+        "location":"desk", 
+        "bottom": "0%", 
+        "left": "27%"
+    },
+    { 
+        "id": "_Future",
+        "location":"desk", 
+        "bottom": "0%", 
+        "left": "43%"
+    },
+    { 
+        "id": "_Soldering",
+        "location":"desk", 
+        "bottom": "0%", 
+        "left": "60%"
+    },
+    { 
+        "id": "_3Dprinting",
+        "location":"floor", 
+        "bottom": "0%", 
+        "left": "90%"
+    }
+
+
+]

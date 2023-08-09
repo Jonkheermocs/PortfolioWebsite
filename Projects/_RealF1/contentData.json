@@ -1,0 +1,81 @@
+[
+    { 
+        "id": "introduction",
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+        "imageStyle":{
+            "top":"1em"
+            }
+
+    },
+    { 
+        "id": "client" ,
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+            "imageStyle":{
+                "top":"1em"
+            }
+        
+    },
+    { 
+        "id": "origin" ,
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+            "imageStyle":{
+                "top":"1em"
+            }
+    },
+    { 
+        "id": "brief" ,
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+            "imageStyle":{
+                "top":"1em"
+            }
+    },
+    { 
+        "id": "exploration" ,
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+            "imageStyle":{
+                "top":"1em"
+            }
+    },
+    { 
+        "id": "ideation" ,
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+            "imageStyle":{
+                "top":"1em"
+            }
+    },
+    { 
+        "id": "fuik1" ,
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+            ],
+            "imageStyle":{
+                "top":"1em"
+            }
+    }
+  ]
