@@ -96,9 +96,18 @@
         }
     },
     {
-        "id": "final concept",
+        "id": "prototype",
         "text": [
             "My project ended with this 1-1 prototype in sheetmetal, which proofed the viability of the concept",
+            "HERE I WANT A PICTURE OF THE FINAL PROTOTYPE AND THE PHOTO USED IN THE NAVBAR OF THE FINAL DESIGN, POSSIBLY WITH SOME LINES INDICATING THE CHANGES."
+      ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "final concept",
+        "text": [
             "after my leave the Studio was able to optimize the design further to reduce both manufacturing and shipping costs",
             "by changing the shape of one of the legs and reduce the amount of bends needed.",
             "HERE I WANT A PICTURE OF THE FINAL PROTOTYPE AND THE PHOTO USED IN THE NAVBAR OF THE FINAL DESIGN, POSSIBLY WITH SOME LINES INDICATING THE CHANGES."

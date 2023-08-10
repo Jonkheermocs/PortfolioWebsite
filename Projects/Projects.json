@@ -16,13 +16,13 @@
         "id": "_Future",
         "location":"desk", 
         "bottom": "0%", 
-        "left": "43%"
+        "left": "45%"
     },
     { 
         "id": "_Soldering",
         "location":"desk", 
         "bottom": "0%", 
-        "left": "60%"
+        "left": "63%"
     },
     { 
         "id": "_3Dprinting",

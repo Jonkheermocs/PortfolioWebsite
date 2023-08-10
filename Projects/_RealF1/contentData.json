@@ -2,9 +2,9 @@
     { 
         "id": "introduction",
         "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
+            "De realF1 is een replica van het stuur van het redbull F1 team.",
+            "Hij is ontwikkeld om gebruikt te kunnen worden met de forcefeedback basis van trustmaster, het meest populaire platform",
+            "De uitdaging van dit project is het zo dicht mogelijk bij het origineel blijven terwijl het ontwerp voor spuitgieten word geoptimaliseerd"
             ],
         "imageStyle":{
             "top":"1em"
@@ -14,9 +14,9 @@
     { 
         "id": "client" ,
         "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
+            "Logicwheels is een startup die voortkomt uit het bedrijf Logicboard repairs.",
+            "Logicboard repairs doet veelal componentniveau electronicareparaties en modificaties.",
+            "Door 1 van de modificaties die ze uitvoerden zijn ze de simrace wereld ingerolt."
             ],
             "imageStyle":{
                 "top":"1em"
@@ -26,9 +26,9 @@
     { 
         "id": "origin" ,
         "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
+            "Na een modificatie van een bestaand stuurtje, waarbij er een scherm in het product werd geintergreerd, werd duidelijk dat er nog een gat in de markt was tussen de goedkope en dure simracestuurtjes",
+            "Ook was er maar weinig aanbod voor replicastuurtjes, en wat er bestaat laat te wensen over.",
+            "Hierdoor ontstond het idee om een replica van het stuur van max verstappen te maken, dat tussen de highend en lowend markten moet worden gepositioneerd."
             ],
             "imageStyle":{
                 "top":"1em"
