@@ -1,0 +1,121 @@
+[
+    {
+        "id": "introduction",
+        "text": [
+            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
+            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
+            "een accoustisch paneel."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "client",
+        "text": [
+            "StudioVIX is a startup in the creative officespace market. Their mission is to",
+            "help create spaces that stimulate creativity by products that inspire new solutions",
+            "and help facilitate more free thought through biophilic design. As a designbased startup",
+            "the focus lies on easthetics and timeless design."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "origin",
+        "text": [
+            "The original product linup existed of a whiteboard design and a drawingsheet dispenser.",
+            "Through a hackaton/brainstorm workshop with a company supplying sustainably sourced floortiles",
+            "the initial plans where made for a partnership to create an officeforest. therefore StudioVIX",
+            "desided to start the design of a tree-like product.",
+            "THE CURRENT IMAGE DOESN'T SCREAM CREATIVITY, BUT IT IS A GOOD PRODUCT LINE-UP. REVISIT THIS ONE"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "brief",
+        "text": [
+            "The product idea, and with that the design brief, is as follows: A multipurpose treelike",
+            "piece of furniture that functions as a canvas for new ideas through the use of feltmaterial",
+            "to use for attaching puneses. This felt should at the same time also funtion for sounddampening",
+            "in larger officespaces.",
+            "HERE I WANT AN ILLUSTRATION OF THE DIFFERENT ELEMENTS IN THE TEXT, A COLOR DRAWING WITH THE PRODUCTS ADDED DIGITALLY"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "exploration",
+        "text": [
+            "As this was my first furniture design project, I started off by exploring both home- and office furniture",
+            "stores. getting a feel for the types of techniques used, understanding the challanges that this class",
+            "of product comes with and getting inspiration for easthetics and styles to use in the design.",
+            "HERE I WANT A COLLAGE OF DIFFERENT INSPIRATIONAL DESIGN ASPECTS, BOTH OF VIX PRODUCTS AND OF OTHERS"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "ideation",
+        "text": [
+            "Continueing the process I started exploring how to realize the posed product idea. Mainly through doing scetches of trees",
+            "and treelike structures to see what form or construction would be a good fit for the practical requirements, such as the ability to ship,",
+            "the manufacturability and component density, but also finding something that fits the style of the previous productlineup.",
+            "HERE I WANT A DRAWING WITH ALL SORTS OF IDEAS THAT EVENTUALLY LEAD TO THE CURRENT DESIGN CONCEPT, THIS SHOULD TAKE UP MORE SPACE THAN THE OTHER PICTURES"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "prototyping",
+        "text": [
+            "based on the results of the exploration we started tinkering around with cardboard and pvc-extrusion models to figure out the interlinking",
+            "of the design and get a feel for how the different legs should relate to one another in terms of position, angle, shape andsize.",
+            "HERE I WANT SOMETHING SIMILAR AS WITH IDEATION, A LINEUP OF MODELS THAT SHOW THE EXPLORATION OF THESE DETAILS"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "preliminairy DFM",
+        "text": [
+            "this lead to a preliminairy CAD design which we discussed with manufacturers to identify potential problems in manufacturability",
+            "Problems such as dealing with tool interference and tollerances we were able to fix in the revision",
+            "through making a 1-1 prototype we were able to test the principle manufacturability of the design and define the specific angles needed",
+            "HERE I WANT A TO SHOW A SET OF MANUFACTURING PROBLEMS THAT WE EVENTUALLY SOLVED, TOGETHER WITH THEIR SOLUTION"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "prototype",
+        "text": [
+            "My project ended with this 1-1 prototype in sheetmetal, which proofed the viability of the concept",
+            "HERE I WANT A PICTURE OF THE FINAL PROTOTYPE AND THE PHOTO USED IN THE NAVBAR OF THE FINAL DESIGN, POSSIBLY WITH SOME LINES INDICATING THE CHANGES."
+      ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "final concept",
+        "text": [
+            "after my leave the Studio was able to optimize the design further to reduce both manufacturing and shipping costs",
+            "by changing the shape of one of the legs and reduce the amount of bends needed.",
+            "HERE I WANT A PICTURE OF THE FINAL PROTOTYPE AND THE PHOTO USED IN THE NAVBAR OF THE FINAL DESIGN, POSSIBLY WITH SOME LINES INDICATING THE CHANGES."
+      ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

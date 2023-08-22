@@ -1,0 +1,140 @@
+[
+    {
+        "id": "introduction777",
+        "imageRef":[
+            "Projects/_Future/client.jpg",
+            "Projects/_Future/brief.jpg"
+        ],
+        "text": [
+            "Na tijdens een stage veel met 3d printers te hebben gewerkt besloot ik in 2019 mijn eerste printer aan te schaffen.",
+            ""
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "printers",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "Ik ben begonnen met een deltaprinter van anycubic, deze keuze was vanuit de snelheidsvoordelen van een deltacontstructie",
+            "Een jaar later heb ik een grote projectprinter van iemand overgenomen. maar vanwege de grootte (800mmx800mm) staat deze nog steeds onafgemaakt in de schuur",
+            "als derde printer heb ik een Voron V2.4 gekocht. Dit is een opensource ontwerp voor een no-compromise fdm 3dprinter die allerlij materialen op hoge snelheid met goede kwaliteit kan printen."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "Anicubic Kossel",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "Ik ben begonnen met een deltaprinter van anycubic. De rede voor deze keuze was de printsnelheid en formaat van deze printer ten opzichte van de andere printers in de lage prijsklasse."
+
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "Voron V2.4",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "Van een hobby 3dprinter bouwer heb ik een Voron V2.4 overgenomen. Dit is een opensource ontwerp voor een no compromise machine.",
+            "momenteel ben ik voornamelijk met deze printer bezig. Door alle extra features zijn er veel meer instellingen om te calibreren"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "exploration",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "As this was my first furniture design project, I started off by exploring both home- and office furniture",
+            "stores. getting a feel for the types of techniques used, understanding the challanges that this class",
+            "of product comes with and getting inspiration for easthetics and styles to use in the design.",
+            "HERE I WANT A COLLAGE OF DIFFERENT INSPIRATIONAL DESIGN ASPECTS, BOTH OF VIX PRODUCTS AND OF OTHERS"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "ideation",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "Continueing the process I started exploring how to realize the posed product idea. Mainly through doing scetches of trees",
+            "and treelike structures to see what form or construction would be a good fit for the practical requirements, such as the ability to ship,",
+            "the manufacturability and component density, but also finding something that fits the style of the previous productlineup.",
+            "HERE I WANT A DRAWING WITH ALL SORTS OF IDEAS THAT EVENTUALLY LEAD TO THE CURRENT DESIGN CONCEPT, THIS SHOULD TAKE UP MORE SPACE THAN THE OTHER PICTURES"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "prototyping",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "based on the results of the exploration we started tinkering around with cardboard and pvc-extrusion models to figure out the interlinking",
+            "of the design and get a feel for how the different legs should relate to one another in terms of position, angle, shape andsize.",
+            "HERE I WANT SOMETHING SIMILAR AS WITH IDEATION, A LINEUP OF MODELS THAT SHOW THE EXPLORATION OF THESE DETAILS"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "preliminairy DFM",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "this lead to a preliminairy CAD design which we discussed with manufacturers to identify potential problems in manufacturability",
+            "Problems such as dealing with tool interference and tollerances we were able to fix in the revision",
+            "through making a 1-1 prototype we were able to test the principle manufacturability of the design and define the specific angles needed",
+            "HERE I WANT A TO SHOW A SET OF MANUFACTURING PROBLEMS THAT WE EVENTUALLY SOLVED, TOGETHER WITH THEIR SOLUTION"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "final concept",
+        "imageRef":[
+            "Projects/_Future/brief.jpg",
+            "Projects/_Future/client.jpg"
+        ],
+        "text": [
+            "My project ended with this 1-1 prototype in sheetmetal, which proofed the viability of the concept",
+            "after my leave the Studio was able to optimize the design further to reduce both manufacturing and shipping costs",
+            "by changing the shape of one of the legs and reduce the amount of bends needed.",
+            "HERE I WANT A PICTURE OF THE FINAL PROTOTYPE AND THE PHOTO USED IN THE NAVBAR OF THE FINAL DESIGN, POSSIBLY WITH SOME LINES INDICATING THE CHANGES."
+      ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    }
+]
+
+

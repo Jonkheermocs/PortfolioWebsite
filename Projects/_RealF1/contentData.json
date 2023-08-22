@@ -1,81 +1,115 @@
 [
-    { 
-        "id": "introduction",
-        "text": [
-            "De realF1 is een replica van het stuur van het redbull F1 team.",
-            "Hij is ontwikkeld om gebruikt te kunnen worden met de forcefeedback basis van trustmaster, het meest populaire platform",
-            "De uitdaging van dit project is het zo dicht mogelijk bij het origineel blijven terwijl het ontwerp voor spuitgieten word geoptimaliseerd"
-            ],
-        "imageStyle":{
-            "top":"1em"
+    {
+        "id": "Designbrief en product idee",
+        "imageRef":[
+            {
+                "url":"Projects/_RealF1/STILL5 BLACK.jpg",
+                "vocalpointX":"-50%",
+                "vocalpointY":"-40%",
+                "height":"40em",
+                "top":"10em",
+                "left":"12em",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL1 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"40em",
+                "top":"10em",
+                "left":"12em",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
             }
+        ],
+        "text": [
+            "replica stuur max verstappen voor sim-racing",
+            "eisen; totale functionaliteit, moet veel dichter bij",
+            "het origineel zitten dan wat nu wordt aangeboden, in "
+            ,"grotere serie worden geproduceerd, hoogwaardige kwaliteit",
+            "(en werkende interface met trustmasterbase)"
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "concept ontwerp",
+        "imageRef":[
+            {
+                "url":"Projects/_RealF1/STILL6 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"12em",
+                "left":"10em",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL8 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"12em",
+                "left":"10em",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            }
+        ],
+        "text": [
+            "Het maken van een proof of concept, intergratie van alle",
+            "(en werkende interface met trustmasterbase)",
+            "ontwikkeling van knop en flippermechanismen voor", 
+            "perfecte feel&look."
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
+    },
+    {
+        "id": "materializering /DFMA",
+        "imageRef":[
+            {
+                "url":"Projects/_RealF1/STILL12 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"12em",
+                "left":"10em",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            },
+            {
+                "url":"Projects/_RealF1/STILL13 BLACK.jpg",
+                "vocalpointX":"-60%",
+                "vocalpointY":"-40%",
+                "height":"30em",
+                "top":"12em",
+                "left":"0p10emx",
+                "credits":"Render by Lucas Postma",
+                "creditColor":"green",
+                "creditLink":"http://www.lucnyxproduct.com/wheel.html"
+            }
+        ],
+        "text": [
+            "Evalueren van probleemgeometrie voor spuitgieten, bepaling",
+            "van tolleranties voor passing van onderdelen en van oppervlakte",
+            "qualiteiten en behandelingen. uittekenen van pcb en plaatsen van",
+            "componenten en traces. bepalen van interne features voor bevestiging",
+            "en constructietechnische ondersteuning."
 
-    },
-    { 
-        "id": "client" ,
-        "text": [
-            "Logicwheels is een startup die voortkomt uit het bedrijf Logicboard repairs.",
-            "Logicboard repairs doet veelal componentniveau electronicareparaties en modificaties.",
-            "Door 1 van de modificaties die ze uitvoerden zijn ze de simrace wereld ingerolt."
-            ],
-            "imageStyle":{
-                "top":"1em"
-            }
-        
-    },
-    { 
-        "id": "origin" ,
-        "text": [
-            "Na een modificatie van een bestaand stuurtje, waarbij er een scherm in het product werd geintergreerd, werd duidelijk dat er nog een gat in de markt was tussen de goedkope en dure simracestuurtjes",
-            "Ook was er maar weinig aanbod voor replicastuurtjes, en wat er bestaat laat te wensen over.",
-            "Hierdoor ontstond het idee om een replica van het stuur van max verstappen te maken, dat tussen de highend en lowend markten moet worden gepositioneerd."
-            ],
-            "imageStyle":{
-                "top":"1em"
-            }
-    },
-    { 
-        "id": "brief" ,
-        "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
-            ],
-            "imageStyle":{
-                "top":"1em"
-            }
-    },
-    { 
-        "id": "exploration" ,
-        "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
-            ],
-            "imageStyle":{
-                "top":"1em"
-            }
-    },
-    { 
-        "id": "ideation" ,
-        "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
-            ],
-            "imageStyle":{
-                "top":"1em"
-            }
-    },
-    { 
-        "id": "fuik1" ,
-        "text": [
-            "de _Boom is een ontwerp voor een kantoormeubel bedoeld voor creatieve ruimtes.",
-            "Het idee achter dit ontwerp is om een combinatie te maken van een ideeenbord met",
-            "een accoustisch paneel."
-            ],
-            "imageStyle":{
-                "top":"1em"
-            }
+        ],
+        "imageStyle": {
+            "top": "1em"
+        }
     }
-  ]
+]
+
+
